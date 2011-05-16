@@ -1,3 +1,10 @@
+/*
+   examples.js
+   Plist-to-JSON
+   
+   Created by Codeboxed on 2011-05-16.
+*/
+
 var win = Ti.UI.currentWindow;
 
 var examplesData = [
